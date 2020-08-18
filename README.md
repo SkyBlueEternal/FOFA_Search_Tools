@@ -15,7 +15,7 @@ Options:
   -q QUERY, --query=QUERY     target query
 ```
 
-example：
+Example：
 
 ```
 python FOFA_API.py -e jin_guanzhang@bilibili.com -k 89c01__________________4fb7b -p 1 -q "test"
