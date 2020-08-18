@@ -1,5 +1,11 @@
 # FOFA 搜索工具 Python 版  -  FOFA Search Tools | Version Python 
 
+Install:
+
+```
+.../FOFA_Search_Tools/>pip install requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
 Help:
 
 ```
