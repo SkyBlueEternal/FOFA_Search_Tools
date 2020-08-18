@@ -25,7 +25,7 @@ Options:
 ```
 
 ```
->python FOFA_SPIDER.py -h
+>python .\OFA_SPIDER.py -h
 Usage: FOFA_SPIDER.py By 98k
 FOFA_SPIDER.py -n/--num <number> -c/--cookie <cookie> -p/--page <page> -q/--query <str>
 
@@ -40,7 +40,7 @@ Options:
 Example：
 
 ```
-> python FOFA_API.py -e jin_guanzhang@bilibili.com -k 89c01__________________4fb7b -p 1 -q "test"
+> python .\FOFA_API.py -e jin_guanzhang@bilibili.com -k 89c01__________________4fb7b -p 1 -q "test"
 181.168.214.110:8081
 confluence.isaqb.org
 webmail.financecheats.com
