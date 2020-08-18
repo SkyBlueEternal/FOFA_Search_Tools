@@ -1,4 +1,5 @@
-# FOFA 搜索工具 Python 版  -  FOFA Search Tools | Version Python 
+# FOFA 搜索工具 Python 版
+# FOFA Search Tools | Version Python 
 
 # 工具仅作为学习交流使用
 # The tool is only used for learning communication ;)
