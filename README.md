@@ -26,7 +26,7 @@ Options:
 ```
 
 ```
->python .\OFA_SPIDER.py -h
+>python .\FOFA_SPIDER.py -h
 Usage: FOFA_SPIDER.py By 98k
 FOFA_SPIDER.py -n/--num <number> -c/--cookie <cookie> -p/--page <page> -q/--query <str>
 
