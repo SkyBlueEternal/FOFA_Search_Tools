@@ -1,6 +1,5 @@
 # FOFA_Search_Tools
-FOFA 搜索工具 Python 版
-FOFA Search Tools | Version Python 
+FOFA 搜索工具 Python 版  -  FOFA Search Tools | Version Python 
 
 ```
 > python .\FOFA_API.py -h
